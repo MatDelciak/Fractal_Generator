@@ -53,4 +53,8 @@ You can run this program in the command line by using the following params (the 
 ## Issues
 
 If something is not clear or you have any issues with the program, please feel free to open an issue on GitHub. I appreciate your feedback and will do my best to resolve any issues as quickly as possible.
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> 06fd256085b5eb38f37a96b05e993d22181788e9
