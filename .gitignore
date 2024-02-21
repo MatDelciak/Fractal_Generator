@@ -1,0 +1,17 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!*.c
+!*.cpp
+!*.h
+!*.hpp
+!*.md
+!*.py
+!*.sh
+!Makefile
+!Doxyfile
+
+# Do not ignore directories
+!*/
