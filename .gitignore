@@ -14,4 +14,4 @@
 !Doxyfile
 
 # Do not ignore directories
-!*/
+!/resources
